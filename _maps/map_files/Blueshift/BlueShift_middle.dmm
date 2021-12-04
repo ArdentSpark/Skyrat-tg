@@ -23232,7 +23232,6 @@
 	},
 /area/service/hydroponics)
 "iCp" = (
-/obj/item/lustwish_discount,
 /obj/item/bdsm_candle{
 	pixel_y = 6
 	},
@@ -26342,7 +26341,7 @@
 /turf/open/floor/iron/dark,
 /area/engineering/gravity_generator)
 "jLW" = (
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /turf/open/floor/carpet/purple,
 /area/commons/fitness/recreation)
 "jMd" = (
@@ -30224,7 +30223,7 @@
 /turf/open/floor/iron,
 /area/cargo/office)
 "lrm" = (
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /obj/structure/sign/barsign{
 	pixel_y = 32
 	},
@@ -38122,7 +38121,7 @@
 /area/hallway/primary/central/aft)
 "oBB" = (
 /obj/effect/turf_decal/bot,
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /obj/machinery/airalarm/directional/west,
 /turf/open/floor/iron/dark/side{
 	dir = 8
@@ -55497,7 +55496,6 @@
 "vAA" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/closet/secure_closet/personal/cabinet,
-/obj/item/lustwish_discount,
 /turf/open/floor/wood,
 /area/maintenance/starboard/aft)
 "vAB" = (
@@ -60853,7 +60851,7 @@
 /turf/closed/wall,
 /area/commons/fitness/locker_room)
 "xxN" = (
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /turf/open/floor/wood,
 /area/maintenance/starboard/aft)
 "xxZ" = (

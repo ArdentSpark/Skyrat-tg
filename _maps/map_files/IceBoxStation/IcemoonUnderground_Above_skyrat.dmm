@@ -2322,7 +2322,7 @@
 /turf/open/floor/iron,
 /area/service/bar)
 "hf" = (
-/obj/machinery/vending/dorms{
+/obj/machinery/vending/cigarette{
 	default_price = 0;
 	extra_price = 0;
 	fair_market_price = 0

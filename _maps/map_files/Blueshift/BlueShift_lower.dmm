@@ -19739,7 +19739,7 @@
 /area/maintenance/fore)
 "ohQ" = (
 /obj/effect/turf_decal/bot,
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /turf/open/floor/iron/dark/side{
 	dir = 8
 	},

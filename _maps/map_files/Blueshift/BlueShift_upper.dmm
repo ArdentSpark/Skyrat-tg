@@ -28889,7 +28889,7 @@
 /turf/open/indestructible,
 /area/science/test_area)
 "jQl" = (
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /obj/effect/turf_decal/bot,
 /obj/effect/turf_decal/tile/neutral,
 /obj/effect/turf_decal/tile/neutral{
@@ -35176,7 +35176,6 @@
 /area/security/checkpoint/medical)
 "mdu" = (
 /obj/structure/table/abductor,
-/obj/item/lustwish_discount,
 /obj/item/clothing/sextoy/vibroring,
 /turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
@@ -59112,7 +59111,7 @@
 /turf/open/floor/iron/white,
 /area/medical/virology)
 "vdK" = (
-/obj/machinery/vending/dorms,
+/obj/machinery/vending/cigarette,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/carpet/purple,
 /area/commons/dorms)
