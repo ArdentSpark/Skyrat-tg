@@ -26,12 +26,12 @@
 	time = 40
 	category = CAT_CLOTHING
 
-/datum/crafting_recipe/chain_collar
-	name = "Chain Collar"
-	result = /obj/item/clothing/neck/kink_collar/reagent_clothing
-	reqs = list(/obj/item/forging/complete/chain = 3)
-	time = 40
-	category = CAT_CLOTHING
+// /datum/crafting_recipe/chain_collar
+// 	name = "Chain Collar"
+// 	result = /obj/item/clothing/neck/kink_collar/reagent_clothing
+// 	reqs = list(/obj/item/forging/complete/chain = 3)
+// 	time = 40
+// 	category = CAT_CLOTHING
 
 /datum/crafting_recipe/chain_cuffs
 	name = "Chain Handcuffs"
