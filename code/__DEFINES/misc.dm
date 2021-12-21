@@ -22,10 +22,10 @@
 #define DAMAGE_LAYER 30 //damage indicators (cuts and burns)
 #define UNIFORM_LAYER 29
 //SKYRAT EDIT ADDITION BEGIN - ERP UPDATE
-#define ANUS_LAYER 28
-#define VAGINA_LAYER 27
-#define PENIS_LAYER 26
-#define NIPPLES_LAYER 25
+// #define ANUS_LAYER 28
+// #define VAGINA_LAYER 27
+// #define PENIS_LAYER 26
+// #define NIPPLES_LAYER 25
 //SKYRAT EDIT ADDITION END
 #define BANDAGE_LAYER 24 //Overlays related to wounds, bandages and splints too //SKYRAT EDIT ADDITION - MEDICAL
 #define ID_LAYER 23
