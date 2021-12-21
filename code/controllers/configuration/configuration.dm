@@ -89,7 +89,7 @@
 	LoadPolicy()
 	LoadChatFilter()
 
-	populate_interaction_instances() //SKYRAT EDIT ADDITION
+	// populate_interaction_instances() //SKYRAT EDIT ADDITION
 
 	loaded = TRUE
 
