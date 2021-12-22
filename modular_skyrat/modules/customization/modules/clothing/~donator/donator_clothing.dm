@@ -1281,3 +1281,46 @@
 		var/choice = input(user, "Select the license type", "License Type Selection") as null|anything in possible_types
 		if(!isnull(choice))
 			name = "license to [choice]"
+
+
+//Stuff for Voxmas 2021, not all of these are actual fluff or donations but its good to have them in one spot
+
+//For Kikeri
+
+/obj/item/clothing/under/dress/kikeri
+	name = "Kikeri's Dress"
+	desc = "A simple black dress with a white undercoat, tied with a blue ribbon."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/uniform.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/uniform_vox.dmi'
+	icon_state = "kikeridress"
+
+/obj/item/clothing/mask/breath/vox/kikeri
+	name = "Kikeri's Mask"
+	desc = "A light grey mask with masquerade-esque blue details."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/masks.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/mask_vox.dmi'
+	icon_state = "kikerimask"
+
+//For warcriminal Vox... or well, Chikitita
+
+/obj/item/clothing/suit/warcriminal
+	name = "Nanotrasen hoodie"
+	desc = "A blue hoodie with the Nanotrasen logo on the back. The hood is just decorational though."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/suits.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/suit_vox.dmi'
+	icon_state = "warcrimehoodie"
+
+/obj/item/clothing/head/warcriminal
+	name = "nurse's hat"
+	desc = "It allows quick identification of trained medical war criminals. The wearers usually twitch so much you can barely see the red cross, which is in violation of the Geneva Convention."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/hats.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/head_vox.dmi'
+	icon_state = "warcrimehat"
+
+/obj/item/clothing/shoes/sandals/warcriminal
+	name = "white sandals"
+	desc = "Medical sandals that war criminals wear."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/shoes.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/feet_vox.dmi'
+	icon_state = "warcrimesandals"
+
