@@ -1324,3 +1324,18 @@
 	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/feet_vox.dmi'
 	icon_state = "warcrimesandals"
 
+//Classic bomber, for Tachaka
+
+/obj/item/clothing/suit/jacket/classic
+	name = "classic bomber jacket"
+	desc = "Aviators not included. There's a british flag on the tag..."
+	icon = 'modular_skyrat/master_files/icons/donator/obj/clothing/suits.dmi'
+	worn_icon = 'modular_skyrat/master_files/icons/donator/mob/clothing/suit.dmi'
+	worn_icon_vox = 'modular_skyrat/master_files/icons/donator/mob/clothing/suit_vox.dmi'
+	icon_state = "classicbomber"
+
+//For our glorious Quill, Katiki
+
+/obj/item/clothing/head/collectable/petehat/leaderhat
+	name = "fancy leader hat"
+	desc = "It smells faintly of reptile. Truly a sign of leadership."
